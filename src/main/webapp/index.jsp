@@ -1,5 +1,6 @@
 <html>
 <body style="font-family: verdana;">
+
 	<h2>Welcome to XAPP Web services!</h2>
 	<h3>Important Information</h3>
 	<table style="border: 1px">
